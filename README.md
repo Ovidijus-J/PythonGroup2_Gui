@@ -1,5 +1,5 @@
-# GUI
-Dania Academy IT Technology Group 2 GameCube. 2019/12/16
+# Graphical User Interface
+Dania Academy IT Technology Group 2 Graphical User Interface. 2019/12/16
 
 
 * Ovidijus, Jacob, Vlad, Lukas 
