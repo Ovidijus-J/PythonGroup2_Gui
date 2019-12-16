@@ -7,8 +7,6 @@ Dania Academy IT Technology Group 2 Graphical User Interface. 2019/12/16
 
 References:
 
-CMD subprocess framework:
-
 https://docs.python.org/2/library/subprocess.html
 
 
