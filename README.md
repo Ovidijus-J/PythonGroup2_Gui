@@ -14,7 +14,7 @@ https://docs.python.org/2/library/subprocess.html
 
 To use Live_Ping_Matplotlib.py you need to install MatPlotLib library: python -m pip install -U matplotlib
 
-It is unimplemented GUI to check live ping statistics every 50 pings.
+It is unimplemented GUI to check live ping statistics.
 
 References:
 
