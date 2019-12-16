@@ -11,8 +11,6 @@ CMD subprocess framework:
 
 https://docs.python.org/2/library/subprocess.html
 
-https://stackoverflow.com/questions/55910191/how-do-i-print-results-to-the-command-line-instead-of-a-popup-window-using-pysim
-
 
 ************************
 
